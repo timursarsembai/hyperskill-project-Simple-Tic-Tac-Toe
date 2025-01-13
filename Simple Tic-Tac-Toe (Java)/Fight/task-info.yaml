@@ -9,4 +9,7 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/projects/48/stages/259/implement#comment
 status: Unchecked
+feedback:
+  message: No SDK configured. Learn how to configure Gradle project <a href="https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#environment_configuration_gradle">here</a>
+  time: "Mon, 13 Jan 2025 07:53:13 UTC"
 record: -1
